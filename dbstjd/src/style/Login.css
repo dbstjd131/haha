@@ -1,0 +1,84 @@
+.loginpage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #C2CFE1;
+    height: 100vh;
+}
+.chartpic{
+    background-color: #384351;
+    margin-top: 72px;
+    width: 638px;
+    height: 730px;
+    margin-bottom: 62px;
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+}
+.chart{
+    margin-top: 116px;
+    margin-left: 52px;
+}
+.login{
+    background-color: white;
+    width: 638px;
+    height: 730px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 62px;
+    margin-top: 72px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+}
+.toplogin{
+    border-bottom: 1px solid #EDEDED;
+    border-top-left-radius:10px;
+}
+.loginword{
+    font-size: 30px;
+    font-weight: bold;
+}
+.Word{
+    font-size: 16px;
+    color: #9A9A9A;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.Id{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 35px;
+    gap: 15px;
+}
+.id1,.pasword{
+    border-radius: 10px;
+    border: 1px solid #E6E6EA;
+    width: 351px;
+    height: 45px;
+    padding-top: 15px;
+    padding-left: 12px;
+}
+.id,.pas{
+    margin-right: 12px;
+}
+.IDD{
+    font-size: 14px;
+    outline: none;
+}
+.logbut{
+    background-color: #65A3FF;
+    color: white;
+    padding: 14px 153px;
+    margin-top: 73px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.botlog{
+    font-size: 12px;
+    margin-top: 16px;
+}
